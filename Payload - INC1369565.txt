@@ -1,0 +1,2 @@
+From Move{"d":{"Customer":"199874","AdjustmentNumber":"105598034","HeaderToLine":[{"Material":"74022213","Plant":"3300","PlantTo":"3300","Batch":"23JM03485","BatchTo":"23HM10863","Quantity":"1.0","Unit":"EA","LineToSerial":[]}],"HeaderToMessage":[]}}
+To Move
